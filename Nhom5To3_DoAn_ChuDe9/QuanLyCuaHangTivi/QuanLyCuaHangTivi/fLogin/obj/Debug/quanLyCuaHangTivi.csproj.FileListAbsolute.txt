@@ -1,0 +1,102 @@
+F:\HK5\Lap trinh .NET\Bai tap\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\bin\Debug\fLogin.exe.config
+F:\HK5\Lap trinh .NET\Bai tap\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\bin\Debug\fLogin.exe
+F:\HK5\Lap trinh .NET\Bai tap\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\bin\Debug\fLogin.pdb
+F:\HK5\Lap trinh .NET\Bai tap\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\quanLyCuaHangTivi.csprojAssemblyReference.cache
+F:\HK5\Lap trinh .NET\Bai tap\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fLogin.resources
+F:\HK5\Lap trinh .NET\Bai tap\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fManager.resources
+F:\HK5\Lap trinh .NET\Bai tap\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.Properties.Resources.resources
+F:\HK5\Lap trinh .NET\Bai tap\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\quanLyCuaHangTivi.csproj.GenerateResource.cache
+F:\HK5\Lap trinh .NET\Bai tap\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\quanLyCuaHangTivi.csproj.CoreCompileInputs.cache
+F:\HK5\Lap trinh .NET\Bai tap\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.exe
+F:\HK5\Lap trinh .NET\Bai tap\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.pdb
+F:\HK5\Lap trinh .NET\Bai tap\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fAdmin.resources
+F:\HK5\Lap trinh .NET\Bai tap\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fChangePassword.resources
+F:\HK5\Lap trinh .NET\Bai tap\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fSignin.resources
+F:\HK5\Lap trinh .NET\Bai tap\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fDienThongTin.resources
+F:\HK5\Lap trinh .NET\Bai tap\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fXuatHD.resources
+F:\HK5\Lap trinh .NET\Bai tap\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fSignUpAdmin.resources
+D:\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\bin\Debug\fLogin.exe.config
+D:\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\bin\Debug\fLogin.exe
+D:\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\bin\Debug\fLogin.pdb
+D:\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\quanLyCuaHangTivi.csproj.AssemblyReference.cache
+D:\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fAdmin.resources
+D:\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fChangePassword.resources
+D:\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fDienThongTin.resources
+D:\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fLogin.resources
+D:\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fManager.resources
+D:\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fSignin.resources
+D:\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fSignUpAdmin.resources
+D:\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.Properties.Resources.resources
+D:\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fXuatHD.resources
+D:\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\quanLyCuaHangTivi.csproj.GenerateResource.cache
+D:\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\quanLyCuaHangTivi.csproj.CoreCompileInputs.cache
+D:\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.exe
+D:\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.pdb
+C:\Users\Phuong Dong\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\bin\Debug\fLogin.exe.config
+C:\Users\Phuong Dong\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\bin\Debug\fLogin.exe
+C:\Users\Phuong Dong\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\bin\Debug\fLogin.pdb
+C:\Users\Phuong Dong\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\quanLyCuaHangTivi.csprojAssemblyReference.cache
+C:\Users\Phuong Dong\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fAdmin.resources
+C:\Users\Phuong Dong\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fChangePassword.resources
+C:\Users\Phuong Dong\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fDienThongTin.resources
+C:\Users\Phuong Dong\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fLogin.resources
+C:\Users\Phuong Dong\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fManager.resources
+C:\Users\Phuong Dong\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fSignup.resources
+C:\Users\Phuong Dong\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.Properties.Resources.resources
+C:\Users\Phuong Dong\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fXuatHD.resources
+C:\Users\Phuong Dong\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\quanLyCuaHangTivi.csproj.GenerateResource.cache
+C:\Users\Phuong Dong\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\quanLyCuaHangTivi.csproj.CoreCompileInputs.cache
+C:\Users\Phuong Dong\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.exe
+C:\Users\Phuong Dong\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.pdb
+C:\Users\Phuong Dong\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fChiTietHD.resources
+C:\Users\Windows 10 Pro\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\bin\Debug\fLogin.exe.config
+C:\Users\Windows 10 Pro\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\bin\Debug\fLogin.exe
+C:\Users\Windows 10 Pro\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\bin\Debug\fLogin.pdb
+C:\Users\Windows 10 Pro\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\quanLyCuaHangTivi.csproj.AssemblyReference.cache
+C:\Users\Windows 10 Pro\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fAdmin.resources
+C:\Users\Windows 10 Pro\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fChangePassword.resources
+C:\Users\Windows 10 Pro\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fChiTietHD.resources
+C:\Users\Windows 10 Pro\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fDienThongTin.resources
+C:\Users\Windows 10 Pro\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fLogin.resources
+C:\Users\Windows 10 Pro\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fManager.resources
+C:\Users\Windows 10 Pro\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fSignup.resources
+C:\Users\Windows 10 Pro\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.Properties.Resources.resources
+C:\Users\Windows 10 Pro\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fXuatHD.resources
+C:\Users\Windows 10 Pro\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\quanLyCuaHangTivi.csproj.GenerateResource.cache
+C:\Users\Windows 10 Pro\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\quanLyCuaHangTivi.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10 Pro\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.exe
+C:\Users\Windows 10 Pro\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.pdb
+E:\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\bin\Debug\fLogin.exe.config
+E:\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\bin\Debug\fLogin.exe
+E:\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\bin\Debug\fLogin.pdb
+E:\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\quanLyCuaHangTivi.csprojAssemblyReference.cache
+E:\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fAdmin.resources
+E:\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fChangePassword.resources
+E:\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fChiTietHD.resources
+E:\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fDienThongTin.resources
+E:\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fLogin.resources
+E:\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fManager.resources
+E:\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fSignup.resources
+E:\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.Properties.Resources.resources
+E:\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fXuatHD.resources
+E:\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\quanLyCuaHangTivi.csproj.GenerateResource.cache
+E:\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\quanLyCuaHangTivi.csproj.CoreCompileInputs.cache
+E:\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.exe
+E:\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.pdb
+E:\.NET And C#\Nhom5To3_DoAn_ChuDe9\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\bin\Debug\fLogin.exe.config
+E:\.NET And C#\Nhom5To3_DoAn_ChuDe9\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\bin\Debug\fLogin.exe
+E:\.NET And C#\Nhom5To3_DoAn_ChuDe9\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\bin\Debug\fLogin.pdb
+E:\.NET And C#\Nhom5To3_DoAn_ChuDe9\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\quanLyCuaHangTivi.csprojAssemblyReference.cache
+E:\.NET And C#\Nhom5To3_DoAn_ChuDe9\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fAdmin.resources
+E:\.NET And C#\Nhom5To3_DoAn_ChuDe9\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fChangePassword.resources
+E:\.NET And C#\Nhom5To3_DoAn_ChuDe9\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fChiTietHD.resources
+E:\.NET And C#\Nhom5To3_DoAn_ChuDe9\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fDienThongTin.resources
+E:\.NET And C#\Nhom5To3_DoAn_ChuDe9\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fLogin.resources
+E:\.NET And C#\Nhom5To3_DoAn_ChuDe9\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fManager.resources
+E:\.NET And C#\Nhom5To3_DoAn_ChuDe9\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fSignup.resources
+E:\.NET And C#\Nhom5To3_DoAn_ChuDe9\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.Properties.Resources.resources
+E:\.NET And C#\Nhom5To3_DoAn_ChuDe9\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.fXuatHD.resources
+E:\.NET And C#\Nhom5To3_DoAn_ChuDe9\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\quanLyCuaHangTivi.csproj.GenerateResource.cache
+E:\.NET And C#\Nhom5To3_DoAn_ChuDe9\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\quanLyCuaHangTivi.csproj.CoreCompileInputs.cache
+E:\.NET And C#\Nhom5To3_DoAn_ChuDe9\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.exe
+E:\.NET And C#\Nhom5To3_DoAn_ChuDe9\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Debug\fLogin.pdb

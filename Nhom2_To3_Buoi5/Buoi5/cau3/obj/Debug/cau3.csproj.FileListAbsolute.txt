@@ -1,0 +1,10 @@
+E:\C#\Nhom2_To3_Buoi5\Buoi5\cau3\bin\Debug\cau3.exe.config
+E:\C#\Nhom2_To3_Buoi5\Buoi5\cau3\bin\Debug\cau3.exe
+E:\C#\Nhom2_To3_Buoi5\Buoi5\cau3\bin\Debug\cau3.pdb
+E:\C#\Nhom2_To3_Buoi5\Buoi5\cau3\obj\Debug\cau3.csproj.AssemblyReference.cache
+E:\C#\Nhom2_To3_Buoi5\Buoi5\cau3\obj\Debug\cau3.Form1.resources
+E:\C#\Nhom2_To3_Buoi5\Buoi5\cau3\obj\Debug\cau3.Properties.Resources.resources
+E:\C#\Nhom2_To3_Buoi5\Buoi5\cau3\obj\Debug\cau3.csproj.GenerateResource.cache
+E:\C#\Nhom2_To3_Buoi5\Buoi5\cau3\obj\Debug\cau3.csproj.CoreCompileInputs.cache
+E:\C#\Nhom2_To3_Buoi5\Buoi5\cau3\obj\Debug\cau3.exe
+E:\C#\Nhom2_To3_Buoi5\Buoi5\cau3\obj\Debug\cau3.pdb

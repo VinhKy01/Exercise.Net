@@ -1,0 +1,7 @@
+E:\.NET And C#\KiemTra\BaiKiemTra\Bai1\bin\Debug\Bai1.exe.config
+E:\.NET And C#\KiemTra\BaiKiemTra\Bai1\bin\Debug\Bai1.exe
+E:\.NET And C#\KiemTra\BaiKiemTra\Bai1\bin\Debug\Bai1.pdb
+E:\.NET And C#\KiemTra\BaiKiemTra\Bai1\obj\Debug\Bai1.csprojAssemblyReference.cache
+E:\.NET And C#\KiemTra\BaiKiemTra\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+E:\.NET And C#\KiemTra\BaiKiemTra\Bai1\obj\Debug\Bai1.exe
+E:\.NET And C#\KiemTra\BaiKiemTra\Bai1\obj\Debug\Bai1.pdb

@@ -1,0 +1,20 @@
+F:\HK5\Lap trinh .NET\Bai tap\b6\b6\cau6.4\bin\Debug\cau6.4.exe.config
+F:\HK5\Lap trinh .NET\Bai tap\b6\b6\cau6.4\bin\Debug\cau6.4.exe
+F:\HK5\Lap trinh .NET\Bai tap\b6\b6\cau6.4\bin\Debug\cau6.4.pdb
+F:\HK5\Lap trinh .NET\Bai tap\b6\b6\cau6.4\obj\Debug\cau6.4.csprojAssemblyReference.cache
+F:\HK5\Lap trinh .NET\Bai tap\b6\b6\cau6.4\obj\Debug\cau6._4.Form1.resources
+F:\HK5\Lap trinh .NET\Bai tap\b6\b6\cau6.4\obj\Debug\cau6._4.Properties.Resources.resources
+F:\HK5\Lap trinh .NET\Bai tap\b6\b6\cau6.4\obj\Debug\cau6.4.csproj.GenerateResource.cache
+F:\HK5\Lap trinh .NET\Bai tap\b6\b6\cau6.4\obj\Debug\cau6.4.csproj.CoreCompileInputs.cache
+F:\HK5\Lap trinh .NET\Bai tap\b6\b6\cau6.4\obj\Debug\cau6.4.exe
+F:\HK5\Lap trinh .NET\Bai tap\b6\b6\cau6.4\obj\Debug\cau6.4.pdb
+E:\.NET And C#\Nhom2_To3_Buoi6\buoi6\b6\cau6.4\bin\Debug\cau6.4.exe.config
+E:\.NET And C#\Nhom2_To3_Buoi6\buoi6\b6\cau6.4\bin\Debug\cau6.4.exe
+E:\.NET And C#\Nhom2_To3_Buoi6\buoi6\b6\cau6.4\bin\Debug\cau6.4.pdb
+E:\.NET And C#\Nhom2_To3_Buoi6\buoi6\b6\cau6.4\obj\Debug\cau6.4.csproj.AssemblyReference.cache
+E:\.NET And C#\Nhom2_To3_Buoi6\buoi6\b6\cau6.4\obj\Debug\cau6._4.Form1.resources
+E:\.NET And C#\Nhom2_To3_Buoi6\buoi6\b6\cau6.4\obj\Debug\cau6._4.Properties.Resources.resources
+E:\.NET And C#\Nhom2_To3_Buoi6\buoi6\b6\cau6.4\obj\Debug\cau6.4.csproj.GenerateResource.cache
+E:\.NET And C#\Nhom2_To3_Buoi6\buoi6\b6\cau6.4\obj\Debug\cau6.4.csproj.CoreCompileInputs.cache
+E:\.NET And C#\Nhom2_To3_Buoi6\buoi6\b6\cau6.4\obj\Debug\cau6.4.exe
+E:\.NET And C#\Nhom2_To3_Buoi6\buoi6\b6\cau6.4\obj\Debug\cau6.4.pdb

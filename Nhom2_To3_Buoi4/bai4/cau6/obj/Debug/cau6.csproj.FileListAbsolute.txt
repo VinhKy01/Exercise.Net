@@ -1,0 +1,10 @@
+C:\Users\Windows 10 Pro\Desktop\bai4\cau6\bin\Debug\cau6.exe.config
+C:\Users\Windows 10 Pro\Desktop\bai4\cau6\bin\Debug\cau6.exe
+C:\Users\Windows 10 Pro\Desktop\bai4\cau6\bin\Debug\cau6.pdb
+C:\Users\Windows 10 Pro\Desktop\bai4\cau6\obj\Debug\cau6.Form1.resources
+C:\Users\Windows 10 Pro\Desktop\bai4\cau6\obj\Debug\cau6.Properties.Resources.resources
+C:\Users\Windows 10 Pro\Desktop\bai4\cau6\obj\Debug\cau6.csproj.GenerateResource.cache
+C:\Users\Windows 10 Pro\Desktop\bai4\cau6\obj\Debug\cau6.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10 Pro\Desktop\bai4\cau6\obj\Debug\cau6.exe
+C:\Users\Windows 10 Pro\Desktop\bai4\cau6\obj\Debug\cau6.pdb
+C:\Users\Windows 10 Pro\Desktop\bai4\cau6\obj\Debug\cau6.csproj.AssemblyReference.cache

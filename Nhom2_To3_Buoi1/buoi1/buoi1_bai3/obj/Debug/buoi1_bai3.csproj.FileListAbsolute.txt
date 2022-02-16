@@ -1,0 +1,6 @@
+E:\.NET And C#\Nhom2_To3_Buoi1\buoi1\buoi1_bai3\obj\Debug\buoi1_bai3.csproj.CoreCompileInputs.cache
+E:\.NET And C#\Nhom2_To3_Buoi1\buoi1\buoi1_bai3\bin\Debug\buoi1_bai3.exe.config
+E:\.NET And C#\Nhom2_To3_Buoi1\buoi1\buoi1_bai3\bin\Debug\buoi1_bai3.exe
+E:\.NET And C#\Nhom2_To3_Buoi1\buoi1\buoi1_bai3\bin\Debug\buoi1_bai3.pdb
+E:\.NET And C#\Nhom2_To3_Buoi1\buoi1\buoi1_bai3\obj\Debug\buoi1_bai3.exe
+E:\.NET And C#\Nhom2_To3_Buoi1\buoi1\buoi1_bai3\obj\Debug\buoi1_bai3.pdb

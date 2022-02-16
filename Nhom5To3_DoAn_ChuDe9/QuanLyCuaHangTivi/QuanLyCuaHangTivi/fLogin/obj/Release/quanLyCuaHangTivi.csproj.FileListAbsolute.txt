@@ -1,0 +1,17 @@
+C:\Users\Phuong Dong\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\bin\Release\fLogin.exe.config
+C:\Users\Phuong Dong\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\bin\Release\fLogin.exe
+C:\Users\Phuong Dong\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\bin\Release\fLogin.pdb
+C:\Users\Phuong Dong\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Release\quanLyCuaHangTivi.csprojAssemblyReference.cache
+C:\Users\Phuong Dong\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Release\fLogin.fAdmin.resources
+C:\Users\Phuong Dong\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Release\fLogin.fChangePassword.resources
+C:\Users\Phuong Dong\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Release\fLogin.fChiTietHD.resources
+C:\Users\Phuong Dong\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Release\fLogin.fDienThongTin.resources
+C:\Users\Phuong Dong\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Release\fLogin.fLogin.resources
+C:\Users\Phuong Dong\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Release\fLogin.fManager.resources
+C:\Users\Phuong Dong\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Release\fLogin.fSignup.resources
+C:\Users\Phuong Dong\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Release\fLogin.Properties.Resources.resources
+C:\Users\Phuong Dong\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Release\fLogin.fXuatHD.resources
+C:\Users\Phuong Dong\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Release\quanLyCuaHangTivi.csproj.GenerateResource.cache
+C:\Users\Phuong Dong\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Release\quanLyCuaHangTivi.csproj.CoreCompileInputs.cache
+C:\Users\Phuong Dong\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Release\fLogin.exe
+C:\Users\Phuong Dong\Desktop\SuperIdol\QuanLyCuaHangTivi\QuanLyCuaHangTivi\fLogin\obj\Release\fLogin.pdb

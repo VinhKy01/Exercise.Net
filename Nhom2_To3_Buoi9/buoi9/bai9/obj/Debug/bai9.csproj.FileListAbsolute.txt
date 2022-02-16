@@ -1,0 +1,12 @@
+E:\.NET And C#\Nhom2_To3_Buoi9\buoi9\bai9\bin\Debug\bai9.exe.config
+E:\.NET And C#\Nhom2_To3_Buoi9\buoi9\bai9\bin\Debug\bai9.exe
+E:\.NET And C#\Nhom2_To3_Buoi9\buoi9\bai9\bin\Debug\bai9.pdb
+E:\.NET And C#\Nhom2_To3_Buoi9\buoi9\bai9\obj\Debug\bai9.csprojAssemblyReference.cache
+E:\.NET And C#\Nhom2_To3_Buoi9\buoi9\bai9\obj\Debug\bai9.Form1.resources
+E:\.NET And C#\Nhom2_To3_Buoi9\buoi9\bai9\obj\Debug\bai9.Form2.resources
+E:\.NET And C#\Nhom2_To3_Buoi9\buoi9\bai9\obj\Debug\bai9.Properties.Resources.resources
+E:\.NET And C#\Nhom2_To3_Buoi9\buoi9\bai9\obj\Debug\bai9.csproj.GenerateResource.cache
+E:\.NET And C#\Nhom2_To3_Buoi9\buoi9\bai9\obj\Debug\bai9.csproj.CoreCompileInputs.cache
+E:\.NET And C#\Nhom2_To3_Buoi9\buoi9\bai9\obj\Debug\bai9.exe
+E:\.NET And C#\Nhom2_To3_Buoi9\buoi9\bai9\obj\Debug\bai9.pdb
+E:\.NET And C#\Nhom2_To3_Buoi9\buoi9\bai9\obj\Debug\bai9.fArray.resources

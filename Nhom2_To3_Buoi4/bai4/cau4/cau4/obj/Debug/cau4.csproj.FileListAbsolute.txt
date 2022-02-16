@@ -1,0 +1,19 @@
+F:\HK5\Lap trinh .NET\Bai tap\b4\bai4\cau4\cau4\bin\Debug\cau4.exe.config
+F:\HK5\Lap trinh .NET\Bai tap\b4\bai4\cau4\cau4\bin\Debug\cau4.exe
+F:\HK5\Lap trinh .NET\Bai tap\b4\bai4\cau4\cau4\bin\Debug\cau4.pdb
+F:\HK5\Lap trinh .NET\Bai tap\b4\bai4\cau4\cau4\obj\Debug\cau4.csprojAssemblyReference.cache
+F:\HK5\Lap trinh .NET\Bai tap\b4\bai4\cau4\cau4\obj\Debug\cau4.Form1.resources
+F:\HK5\Lap trinh .NET\Bai tap\b4\bai4\cau4\cau4\obj\Debug\cau4.Properties.Resources.resources
+F:\HK5\Lap trinh .NET\Bai tap\b4\bai4\cau4\cau4\obj\Debug\cau4.csproj.GenerateResource.cache
+F:\HK5\Lap trinh .NET\Bai tap\b4\bai4\cau4\cau4\obj\Debug\cau4.csproj.CoreCompileInputs.cache
+F:\HK5\Lap trinh .NET\Bai tap\b4\bai4\cau4\cau4\obj\Debug\cau4.exe
+F:\HK5\Lap trinh .NET\Bai tap\b4\bai4\cau4\cau4\obj\Debug\cau4.pdb
+C:\Users\Windows 10 Pro\Desktop\bai4\cau4\cau4\bin\Debug\cau4.exe.config
+C:\Users\Windows 10 Pro\Desktop\bai4\cau4\cau4\bin\Debug\cau4.exe
+C:\Users\Windows 10 Pro\Desktop\bai4\cau4\cau4\bin\Debug\cau4.pdb
+C:\Users\Windows 10 Pro\Desktop\bai4\cau4\cau4\obj\Debug\cau4.Form1.resources
+C:\Users\Windows 10 Pro\Desktop\bai4\cau4\cau4\obj\Debug\cau4.Properties.Resources.resources
+C:\Users\Windows 10 Pro\Desktop\bai4\cau4\cau4\obj\Debug\cau4.csproj.GenerateResource.cache
+C:\Users\Windows 10 Pro\Desktop\bai4\cau4\cau4\obj\Debug\cau4.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10 Pro\Desktop\bai4\cau4\cau4\obj\Debug\cau4.exe
+C:\Users\Windows 10 Pro\Desktop\bai4\cau4\cau4\obj\Debug\cau4.pdb

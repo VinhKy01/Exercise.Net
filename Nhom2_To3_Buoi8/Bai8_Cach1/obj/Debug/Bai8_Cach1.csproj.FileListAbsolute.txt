@@ -1,0 +1,13 @@
+E:\.NET And C#\Nhom2_To3_Buoi8\Bai8_Cach1\bin\Debug\Bai8_Cach1.exe.config
+E:\.NET And C#\Nhom2_To3_Buoi8\Bai8_Cach1\bin\Debug\Bai8_Cach1.exe
+E:\.NET And C#\Nhom2_To3_Buoi8\Bai8_Cach1\bin\Debug\Bai8_Cach1.pdb
+E:\.NET And C#\Nhom2_To3_Buoi8\Bai8_Cach1\obj\Debug\Bai8_Cach1.csprojAssemblyReference.cache
+E:\.NET And C#\Nhom2_To3_Buoi8\Bai8_Cach1\obj\Debug\Bai8_Cach1.Form1.resources
+E:\.NET And C#\Nhom2_To3_Buoi8\Bai8_Cach1\obj\Debug\Bai8_Cach1.Properties.Resources.resources
+E:\.NET And C#\Nhom2_To3_Buoi8\Bai8_Cach1\obj\Debug\Bai8_Cach1.csproj.GenerateResource.cache
+E:\.NET And C#\Nhom2_To3_Buoi8\Bai8_Cach1\obj\Debug\Bai8_Cach1.csproj.CoreCompileInputs.cache
+E:\.NET And C#\Nhom2_To3_Buoi8\Bai8_Cach1\obj\Debug\Bai8_Cach1.exe
+E:\.NET And C#\Nhom2_To3_Buoi8\Bai8_Cach1\obj\Debug\Bai8_Cach1.pdb
+E:\.NET And C#\Nhom2_To3_Buoi8\Bai8_Cach1\obj\Debug\Bai8_Cach1.fChuNhat.resources
+E:\.NET And C#\Nhom2_To3_Buoi8\Bai8_Cach1\obj\Debug\Bai8_Cach1.fTron.resources
+E:\.NET And C#\Nhom2_To3_Buoi8\Bai8_Cach1\obj\Debug\Bai8_Cach1.fVuong.resources

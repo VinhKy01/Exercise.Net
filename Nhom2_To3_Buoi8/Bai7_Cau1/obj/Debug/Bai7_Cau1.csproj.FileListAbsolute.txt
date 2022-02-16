@@ -1,0 +1,30 @@
+F:\HK5\Lap trinh .NET\Bai tap\Bai7\Bai7_Cau1\bin\Debug\Bai7_Cau1.exe.config
+F:\HK5\Lap trinh .NET\Bai tap\Bai7\Bai7_Cau1\bin\Debug\Bai7_Cau1.exe
+F:\HK5\Lap trinh .NET\Bai tap\Bai7\Bai7_Cau1\bin\Debug\Bai7_Cau1.pdb
+F:\HK5\Lap trinh .NET\Bai tap\Bai7\Bai7_Cau1\obj\Debug\Bai7_Cau1.csprojAssemblyReference.cache
+F:\HK5\Lap trinh .NET\Bai tap\Bai7\Bai7_Cau1\obj\Debug\Bai7_Cau1.fHinhTron.resources
+F:\HK5\Lap trinh .NET\Bai tap\Bai7\Bai7_Cau1\obj\Debug\Bai7_Cau1.Form1.resources
+F:\HK5\Lap trinh .NET\Bai tap\Bai7\Bai7_Cau1\obj\Debug\Bai7_Cau1.Properties.Resources.resources
+F:\HK5\Lap trinh .NET\Bai tap\Bai7\Bai7_Cau1\obj\Debug\Bai7_Cau1.csproj.GenerateResource.cache
+F:\HK5\Lap trinh .NET\Bai tap\Bai7\Bai7_Cau1\obj\Debug\Bai7_Cau1.csproj.CoreCompileInputs.cache
+F:\HK5\Lap trinh .NET\Bai tap\Bai7\Bai7_Cau1\obj\Debug\Bai7_Cau1.exe
+F:\HK5\Lap trinh .NET\Bai tap\Bai7\Bai7_Cau1\obj\Debug\Bai7_Cau1.pdb
+F:\HK5\Lap trinh .NET\Bai tap\Bai7\Bai7_Cau1\obj\Debug\Bai7_Cau1.fChuNhat.resources
+F:\HK5\Lap trinh .NET\Bai tap\Bai7\Bai7_Cau1\obj\Debug\Bai7_Cau1.fTamGiac.resources
+F:\HK5\Lap trinh .NET\Bai tap\Bai7\Bai7_Cau1\obj\Debug\Bai7_Cau1.fVuong.resources
+F:\HK5\Lap trinh .NET\Bai tap\Bai7\Bai7_Cau1\obj\Debug\Bai7_Cau1.fKetQua.resources
+E:\.NET And C#\Nhom2_To3_Buoi8\Bai7_Cau1\bin\Debug\Bai7_Cau1.exe.config
+E:\.NET And C#\Nhom2_To3_Buoi8\Bai7_Cau1\bin\Debug\Bai7_Cau1.exe
+E:\.NET And C#\Nhom2_To3_Buoi8\Bai7_Cau1\bin\Debug\Bai7_Cau1.pdb
+E:\.NET And C#\Nhom2_To3_Buoi8\Bai7_Cau1\obj\Debug\Bai7_Cau1.csprojAssemblyReference.cache
+E:\.NET And C#\Nhom2_To3_Buoi8\Bai7_Cau1\obj\Debug\Bai7_Cau1.fChuNhat.resources
+E:\.NET And C#\Nhom2_To3_Buoi8\Bai7_Cau1\obj\Debug\Bai7_Cau1.fHinhTron.resources
+E:\.NET And C#\Nhom2_To3_Buoi8\Bai7_Cau1\obj\Debug\Bai7_Cau1.fKetQua.resources
+E:\.NET And C#\Nhom2_To3_Buoi8\Bai7_Cau1\obj\Debug\Bai7_Cau1.Form1.resources
+E:\.NET And C#\Nhom2_To3_Buoi8\Bai7_Cau1\obj\Debug\Bai7_Cau1.fTamGiac.resources
+E:\.NET And C#\Nhom2_To3_Buoi8\Bai7_Cau1\obj\Debug\Bai7_Cau1.fVuong.resources
+E:\.NET And C#\Nhom2_To3_Buoi8\Bai7_Cau1\obj\Debug\Bai7_Cau1.Properties.Resources.resources
+E:\.NET And C#\Nhom2_To3_Buoi8\Bai7_Cau1\obj\Debug\Bai7_Cau1.csproj.GenerateResource.cache
+E:\.NET And C#\Nhom2_To3_Buoi8\Bai7_Cau1\obj\Debug\Bai7_Cau1.csproj.CoreCompileInputs.cache
+E:\.NET And C#\Nhom2_To3_Buoi8\Bai7_Cau1\obj\Debug\Bai7_Cau1.exe
+E:\.NET And C#\Nhom2_To3_Buoi8\Bai7_Cau1\obj\Debug\Bai7_Cau1.pdb

@@ -1,0 +1,10 @@
+E:\.NET And C#\Nhom2_To3_Buoi2\Buoi2\Bai2.10\Bai2.10\bin\Debug\Bai2.10.exe.config
+E:\.NET And C#\Nhom2_To3_Buoi2\Buoi2\Bai2.10\Bai2.10\bin\Debug\Bai2.10.exe
+E:\.NET And C#\Nhom2_To3_Buoi2\Buoi2\Bai2.10\Bai2.10\bin\Debug\Bai2.10.pdb
+E:\.NET And C#\Nhom2_To3_Buoi2\Buoi2\Bai2.10\Bai2.10\obj\Debug\Bai2.10.csproj.AssemblyReference.cache
+E:\.NET And C#\Nhom2_To3_Buoi2\Buoi2\Bai2.10\Bai2.10\obj\Debug\Bai2._10.Form1.resources
+E:\.NET And C#\Nhom2_To3_Buoi2\Buoi2\Bai2.10\Bai2.10\obj\Debug\Bai2._10.Properties.Resources.resources
+E:\.NET And C#\Nhom2_To3_Buoi2\Buoi2\Bai2.10\Bai2.10\obj\Debug\Bai2.10.csproj.GenerateResource.cache
+E:\.NET And C#\Nhom2_To3_Buoi2\Buoi2\Bai2.10\Bai2.10\obj\Debug\Bai2.10.csproj.CoreCompileInputs.cache
+E:\.NET And C#\Nhom2_To3_Buoi2\Buoi2\Bai2.10\Bai2.10\obj\Debug\Bai2.10.exe
+E:\.NET And C#\Nhom2_To3_Buoi2\Buoi2\Bai2.10\Bai2.10\obj\Debug\Bai2.10.pdb
